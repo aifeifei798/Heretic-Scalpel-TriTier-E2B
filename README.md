@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Base Model](https://img.shields.io/badge/Base%20Model-Gemma--4--E2B-orange.svg)](https://huggingface.co/aifeifei798/Heretic-Scalpel-E2B)
-[![HF Model](https://img.shields.io/badge/HF%20Model-Heretic--Scalpel--TriTier--E2B.svg)](https://huggingface.co/aifeifei798/Heretic-Scalpel-TriTier-E2B)
+[![HF Model](https://img.shields.io/badge/HF%20Model-Heretic--Scalpel--TriTier--E2B-orange.svg)](https://huggingface.co/aifeifei798/Heretic-Scalpel-TriTier-E2B)
 [![Architecture](https://img.shields.io/badge/Architecture-Tri--Tier%20Swarm%20MoE-purple.svg)](#architecture-overview)
 [![Format](https://img.shields.io/badge/Weights-SafeTensors%20(121.6%20MB)-green.svg)](#step-4-export-to-hugging-face-safetensors-format)
 
