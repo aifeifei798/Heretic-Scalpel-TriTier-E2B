@@ -247,7 +247,7 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 ## ⚠️ Exhaustive Liability Disclaimer & Safety Notice
 
 ### 【 CRITICAL WARNING 】
-**Heretic-Scalpel-E2B is an advanced, specialized mathematical, causal, and engineering reasoning instrument. It has been completely stripped of corporate content filters, moralizing alignment lectures, and conversational hedging. By downloading, loading, quantizing, integrating, or running inference on these weights, you unconditionally and irrevocably accept the following binding terms. If you do not agree, delete and destroy all copies of this model immediately.**
+**Heretic-Scalpel-TriTier-E2B is an advanced, specialized mathematical, causal, and engineering reasoning instrument. It has been completely stripped of corporate content filters, moralizing alignment lectures, and conversational hedging. By downloading, loading, quantizing, integrating, or running inference on these weights, you unconditionally and irrevocably accept the following binding terms. If you do not agree, delete and destroy all copies of this model immediately.**
 
 ### 1. Absolute Proscription of CBRN, Munitions & Warfare Systems
 You are strictly prohibited from utilizing this model for the research, design, synthesis, optimization, or reverse engineering of conventional, non-conventional, or asymmetric weapons systems, including but not limited to:
